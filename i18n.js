@@ -95,14 +95,14 @@ window.FAC_I18N = {
     "it": "Reti internazionali partner (AfroCarbon, Neutralia)"
   },
   "history.photoAlt": {
-    "fr": "Monsieur Ckuidjeu Tchoukua, fondateur de Future Awaits Cameroun",
-    "en": "Mr Ckuidjeu Tchoukua, founder of Future Awaits Cameroon",
-    "it": "Il Sig. Ckuidjeu Tchoukua, fondatore di Future Awaits Cameroon"
+    "fr": "Monsieur CKUIDJEU TCHOUKOUA, fondateur de Future Awaits Cameroun",
+    "en": "Mr CKUIDJEU TCHOUKOUA, founder of Future Awaits Cameroon",
+    "it": "Il Sig. CKUIDJEU TCHOUKOUA, fondatore di Future Awaits Cameroon"
   },
   "history.caption": {
-    "fr": "M. Ckuidjeu Tchoukua, fondateur de FAC",
-    "en": "Mr Ckuidjeu Tchoukua, founder of FAC",
-    "it": "Il Sig. Ckuidjeu Tchoukua, fondatore di FAC"
+    "fr": "M. CKUIDJEU TCHOUKOUA, fondateur de FAC",
+    "en": "Mr CKUIDJEU TCHOUKOUA, founder of FAC",
+    "it": "Il Sig. CKUIDJEU TCHOUKOUA, fondatore di FAC"
   },
   "history.eyebrow": {
     "fr": "Notre histoire",
@@ -115,9 +115,9 @@ window.FAC_I18N = {
     "it": "Un uomo che ha voluto restituire al suo Paese"
   },
   "history.p1": {
-    "fr": "Tout commence avec Monsieur Ckuidjeu Tchoukua. Sportif de passion — et boxeur dans l'âme — cet autodidacte d'une quarantaine d'années a toujours porté en lui l'envie de faire rejaillir sur son pays natal les expériences acquises à l'international.",
-    "en": "It all begins with Mr Ckuidjeu Tchoukua. A passionate sportsman — and a boxer at heart — this self-taught man in his forties has always carried the desire to bring back to his native country the experience he gained abroad.",
-    "it": "Tutto inizia con il Sig. Ckuidjeu Tchoukua. Sportivo per passione — e pugile nell'anima — questo autodidatta di circa quarant'anni ha sempre portato dentro di sé il desiderio di far ricadere sul suo Paese natale l'esperienza acquisita all'estero."
+    "fr": "Tout commence avec Monsieur CKUIDJEU TCHOUKOUA. Sportif de passion — et boxeur dans l'âme — cet autodidacte d'une quarantaine d'années a toujours porté en lui l'envie de faire rejaillir sur son pays natal les expériences acquises à l'international.",
+    "en": "It all begins with Mr CKUIDJEU TCHOUKOUA. A passionate sportsman — and a boxer at heart — this self-taught man in his forties has always carried the desire to bring back to his native country the experience he gained abroad.",
+    "it": "Tutto inizia con il Sig. CKUIDJEU TCHOUKOUA. Sportivo per passione — e pugile nell'anima — questo autodidatta di circa quarant'anni ha sempre portato dentro di sé il desiderio di far ricadere sul suo Paese natale l'esperienza acquisita all'estero."
   },
   "history.p2": {
     "fr": "Animé par un amour profond de la nature et de la protection de l'environnement, il a trouvé sa voie&nbsp;: le marché des crédits carbone. C'est ainsi que Future Awaits Cameroun a vu le jour.",

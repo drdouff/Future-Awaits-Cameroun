@@ -235,9 +235,9 @@ window.FAC_I18N = {
     "it": "Incontro con partner internazionali durante un forum all'estero"
   },
   "gallery.item4.alt": {
-    "fr": "Cérémonie officielle avec les autorités locales",
-    "en": "Official ceremony with local authorities",
-    "it": "Cerimonia ufficiale con le autorità locali"
+    "fr": "Cérémonie officielle aux côtés du MINEPDED, Son Excellence Monsieur HELE PIERE",
+    "en": "Official ceremony alongside the MINEPDED, His Excellency Mr. HELE PIERE",
+    "it": "Cerimonia ufficiale al fianco del MINEPDED, Sua Eccellenza il Signor HELE PIERE"
   },
   "gallery.item4.caption": {
     "fr": "Cérémonie officielle aux côtés des autorités locales",

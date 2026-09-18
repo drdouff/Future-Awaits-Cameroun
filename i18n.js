@@ -240,9 +240,9 @@ window.FAC_I18N = {
     "it": "Cerimonia ufficiale al fianco del MINEPDED, Sua Eccellenza il Signor HELE PIERE"
   },
   "gallery.item4.caption": {
-    "fr": "Cérémonie officielle aux côtés des autorités locales",
-    "en": "Official ceremony alongside local authorities",
-    "it": "Cerimonia ufficiale al fianco delle autorità locali"
+    "fr": "Cérémonie officielle aux côtés du MINEPDED, Son Excellence Monsieur HELE PIERE",
+    "en": "Official ceremony alongside the MINEPDED, His Excellency Mr. HELE PIERE",
+    "it": "Cerimonia ufficiale al fianco del MINEPDED, Sua Eccellenza il Signor HELE PIERE"
   },
   "gallery.item5.alt": {
     "fr": "Présentation des vœux au Ministère de l'Environnement, février 2026",
